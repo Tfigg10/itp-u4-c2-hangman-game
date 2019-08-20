@@ -2,7 +2,7 @@ import random
 from .exceptions import *
 
 # Complete with your own, just for fun :)
-LIST_OF_WORDS = ['bleh', 'blah']
+LIST_OF_WORDS = ['bleh', 'blah', 'blue']
 
 
 def _get_random_word(list_of_words):
